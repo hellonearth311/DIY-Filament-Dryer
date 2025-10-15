@@ -19,3 +19,8 @@ I just started working on my enclosure design for the filament dryer in Tinkerca
 
 As you can see in the image, Tinkercad makes holes super weird, and I hate that so much. (The gray things are holes)  
 
+## 10/15/2025 - Suffering in Fusion 360  
+
+I tried to switch to Fusion 360 but this is hell. Everything is so unnecessarily complicated and hidden behind so many menus, so I gave up on that too. I'm going to try OnShape as @dhyan in the Slack recommended for me to. Have a picture of my disgusting Fusion 360 design in the mean time.![screenshot.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM5NywicHVyIjoiYmxvYl9pZCJ9fQ==--46951937986e0e314e7f1d962636ca42b046bb18/taxfraud.png)
+  
+
