@@ -19,8 +19,19 @@ I just started working on my enclosure design for the filament dryer in Tinkerca
 
 As you can see in the image, Tinkercad makes holes super weird, and I hate that so much. (The gray things are holes)  
 
-## 10/15/2025 - Suffering in Fusion 360  
+## 10/15/2025 4 PM - Suffering in Fusion 360  
 
 I tried to switch to Fusion 360 but this is hell. Everything is so unnecessarily complicated and hidden behind so many menus, so I gave up on that too. I'm going to try OnShape as @dhyan in the Slack recommended for me to. Have a picture of my disgusting Fusion 360 design in the mean time.![screenshot.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM5NywicHVyIjoiYmxvYl9pZCJ9fQ==--46951937986e0e314e7f1d962636ca42b046bb18/taxfraud.png)
   
+
+## 10/15/2025 5 PM - Back to Tinkercad, corrupted design  
+
+Switched back to Tinkercad since it's the only CAD software I understand. I actually got it looking pretty nice (see below) and I was pretty proud of it!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--3036d0aa7a10ec17f92a4148a867e8ccf3551e25/image.png)
+But then.. I accidentally CMD+Qed mid save, corrupting my design and making it look like this..
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwNywicHVyIjoiYmxvYl9pZCJ9fQ==--ddc4fbbf5fb0f69ace6ed9d5cf722c68102fe4a7/taxfraud.png)
+
+I hate this so much..............
+
+Oh well, I'll have to restart now. I've spent the past 30 minutes trying to fix this and it WILL NOT fix. Potentially I could restore to an older version and remake the changes I made, which is probably what I will end up doing. This sucks.  
 
